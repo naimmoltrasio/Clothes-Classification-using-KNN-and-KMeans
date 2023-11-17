@@ -33,4 +33,5 @@ Once you run the project, a menu in the console will appear with different optio
 ### Example
 In this example we will visualize the k-means results, so we choose option number 1 in the console.
 We will get the first 5 images of our dataset (this number can be changed) as it follows:
-![k-means](/results/k-means.png)
+![k-means](results/k-means.PNG)
+
