@@ -1,5 +1,13 @@
 # Clothing Labelling using Machine Learning
-Image labeling problem that I solved as a project in the Artificial Intelligence subject at the university.
+![GitHub language count](https://img.shields.io/github/languages/count/naimmoltrasio/Clothes-Classification-using-KNN-and-KMeans.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/naimmoltrasio/Clothes-Classification-using-KNN-and-KMeans.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/naimmoltrasio/Clothes-Classification-using-KNN-and-KMeans.svg)
+![GitHub](https://img.shields.io/github/license/naimmoltrasio/Clothes-Classification-using-KNN-and-KMeans.svg)
+
+## People
+
+Naim Moltrasio [E-mail](mailto:naim.moltrasio@gmail.com "E-mail")
+
 ## Table of contents
 * [General information](#general-info)
 * [Technologies](#technologies)
@@ -7,14 +15,16 @@ Image labeling problem that I solved as a project in the Artificial Intelligence
 * [Setup](#setup)
 * [Example](#example)
 
-### General information
+## Overview
 This projects aims to properly classify different types of clothes within their colour or their type. Furthermore, we will we able to calculate the accuracy each algorithm we use to solve this labelling problem has.
-### Technologies
+
+## Dependencies
 Project is created using:
  * Python 3.9
  * matplotlib
- * numpy 
-### Algorithms Implemented
+ * numpy
+   
+## Algorithms Implemented
 We will be using K-means algorithm for retrieving the most predominant colors in the different images.
  * K-means is an unsupervised learning algorithm used for clustering data points into groups or clusters.
  * How it works? The algorithm partitions the data into k clusters based on the similarity of data points. It assigns each data point to the cluster whose centroid (center) is closest to that point. The centroids are updated iteratively until convergence, and the process continues until the clusters are well-defined.
